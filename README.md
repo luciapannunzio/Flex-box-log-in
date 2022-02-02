@@ -27,7 +27,7 @@
 
 **About Project**
  - Description
-*YouTube* - clone Create a webpage using Html/Css to recreate a YouTube channel homepage. This project is static, that means there are no functioning buttons.
+*Flex-box* - log in Create a webpage using Html/Css. This project is static, that means there are no functioning buttons.
 
 
 * * *
