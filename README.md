@@ -6,7 +6,6 @@
 
 * * *
 
-
 **Navigation**
  - About Project
     - Description
@@ -20,3 +19,40 @@
     - Design
     - Icons
     - Colors
+
+* * *
+
+**About Project**
+ - Description
+*YouTube* - clone Create a webpage using Html/Css to recreate a YouTube channel homepage. This project is static, that means there are no functioning buttons.
+
+* * *
+
+**Developed With**
+ [x]HTML5
+ [x]CSS3
+ []SASS
+ []SCSS
+ []JavaScript
+ []React
+ []Bootstrap
+ [x]npm
+ 
+ * * *
+ 
+**Contact**
+Mail: [myemail](luciapannunzio@mail.com)
+GitHub: [luciapannunzio](https://github.com/luciapannunzio)
+LinkedIn: [mylinkedin](https://www.linkedin.com/in/lucia-pannunzio-van-der-wedden-58bbb9162/)
+
+* * *
+
+**Used Tools**
+- icons
+- npm
+- Google Fonts
+- Visual Studio Code
+
+* * *
+
+Made with :heart: by Lucia Pannunzio
