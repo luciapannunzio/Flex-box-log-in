@@ -50,11 +50,11 @@
  
 **Contact**
 
-Mail: [myemail](luciapannunzio@mail.com/)
+Mail: [luciapannunzio](luciapannunzio@gmail.com)
 
 GitHub: [luciapannunzio](https://github.com/luciapannunzio/)
 
-LinkedIn: [mylinkedin](https://www.linkedin.com/in/lucia-pannunzio-van-der-wedden-58bbb9162/)
+LinkedIn: [my linkedin](https://www.linkedin.com/luciapannunziovanderwedden)
 
 
 * * *
